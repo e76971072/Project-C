@@ -16,4 +16,4 @@ program prints Yes or No.
 
 4. If the given file contains a Sudoku puzzle (i.e., the first number in the file is 1), then
 your program should print possible values that can appear in each empty cell,
-which contains 0. In the case of the above puzzle1.txt data, the output would be as 
+which contains 0.
